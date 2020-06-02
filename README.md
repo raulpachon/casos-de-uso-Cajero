@@ -12,7 +12,7 @@ _En este repositorio se realiza descripcion del funcionamiento y la interaccion 
 
 #### Diagrama de clases
 
-![imagen referencia](https://github.com/raulpachon/casos-de-uso-Cajero/blob/master/diagrama de clases Cajero.jpg)
+![imagen referencia](https://github.com/raulpachon/casos-de-uso-Cajero/blob/master/diagrama_de_clases_Cajero.jpg)
 
 #### Diagrama de Actividades
 

@@ -16,7 +16,10 @@ _En este repositorio se realiza descripcion del funcionamiento y la interaccion 
 
 #### Diagrama de Actividades
 
-![imagen referencia](https://github.com/raulpachon/casos-de-uso-Cajero/blob/master/UseCaseCAJERO.jpg)
+![imagen referencia](https://github.com/raulpachon/casos-de-uso-Cajero/blob/master/SequenceRetiro.jpg)
+![imagen referencia](https://github.com/raulpachon/casos-de-uso-Cajero/blob/master/SequenceRetiro.jpg)
+![imagen referencia](https://github.com/raulpachon/casos-de-uso-Cajero/blob/master/SequenceRetiro.jpg)
+![imagen referencia](https://github.com/raulpachon/casos-de-uso-Cajero/blob/master/SequenceRetiro.jpg)
 
 #### Diagrama de Secuencia
 

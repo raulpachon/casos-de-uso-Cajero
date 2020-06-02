@@ -17,12 +17,12 @@ _En este repositorio se realiza descripcion del funcionamiento y la interaccion 
 #### Diagrama de Actividades
 
 ![imagen referencia](https://github.com/raulpachon/casos-de-uso-Cajero/blob/master/SequenceRetiro.jpg)
-![imagen referencia](https://github.com/raulpachon/casos-de-uso-Cajero/blob/master/SequenceRetiro.jpg)
-![imagen referencia](https://github.com/raulpachon/casos-de-uso-Cajero/blob/master/SequenceRetiro.jpg)
-![imagen referencia](https://github.com/raulpachon/casos-de-uso-Cajero/blob/master/SequenceRetiro.jpg)
+![imagen referencia](https://github.com/raulpachon/casos-de-uso-Cajero/blob/master/SequenceTransferencia.jpg)
+![imagen referencia](https://github.com/raulpachon/casos-de-uso-Cajero/blob/master/SequenceDeposito.jpg)
+![imagen referencia](https://github.com/raulpachon/casos-de-uso-Cajero/blob/master/SequenceConsulta.jpg)
 
 #### Diagrama de Secuencia
 
-![imagen referencia](https://github.com/raulpachon/casos-de-uso-Cajero/blob/master/UseCaseCAJERO.jpg)
+![imagen referencia](https://github.com/raulpachon/casos-de-uso-Cajero/blob/master/diagramaActividad.jpg)
 
 _diagramas realizados con starUML_
